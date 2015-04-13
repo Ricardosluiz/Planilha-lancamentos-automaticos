@@ -1,0 +1,24 @@
+PLANILHA DE LANÇAMENTOS COM FÓRMULA DE BUSCA. (para contabilidades ou controle financeiro).
+
+Com a planilha de lançamentos automáticos, você cria seu próprio banco de dados na planilha "PLANO" e quando você digitar na planilha "LANÇAMENTOS" ela faz a busca e classifica automáticamente.
+
+Aplica-se = "Libreoffice Calc"
+
+Como funciona?
+
+-#-Você cria uma lista na aba "PLANO".
+
+* Coluna A = Nome
+* Coluna B = Conta
+
+-#-Você Digita na aba "LANÇAMENTOS".
+
+* Quando você digitar na coluna "D" ela busca o nome na aba "PLANO" e já escreve automanticamente a conta referente na coluna "F".
+
+** Além disso a planilha já possui fórmulas para cálculos de saldo anterior e acompanhamento de saldo em tempo real facilitando a conciliação bancária. **
+
+Você também pode utilizar o código https://github.com/Ricardosluiz/SHELL-LIBREOFFICE-MACRO junto a planilha para geração de lançamentos para importação.
+
+____________________________________Version 1.0_________________________________________
+
+Ricardo SL
